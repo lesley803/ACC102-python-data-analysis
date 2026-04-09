@@ -1,0 +1,9 @@
+# Data Source Description (Scheme 1: AKShare Domestic Data Source)
+# 1. Stock Price Data: AKShare (Dongfang Fortune Financial Data Interface)
+#    - BYD A-share: 002594.SZ, BYD HK-share: 1211.HK
+#    - Time Range: 2025-01-01 to 2026-04-01
+#    - Access Date: 2026-04-09
+# 2. Monthly Sales Data: BYD Official Monthly Sales Announcements
+#    - Data Type: New energy vehicle sales volume
+#    - Access Date: 2026-04-09
+# Note: Using AKShare to avoid access restrictions of Yahoo Finance in Mainland China

@@ -25,7 +25,7 @@ This project analyzes the relationship between BYD’s A-share/HK-share stock pr
 4. Open `byd_analysis.ipynb` and run all cells
 
 ## 6. Product link / Demo
-- GitHub Repository: [Your GitHub Repository Link]
+- GitHub Repository: https://github.com/lesley803/ACC102-python-data-analysis
 - Demo Video: [Your Demo Video Link]
 
 ## 7. Limitations & next steps

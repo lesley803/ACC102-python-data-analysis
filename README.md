@@ -26,7 +26,7 @@ This project analyzes the relationship between BYD’s A-share/HK-share stock pr
 
 ## 6. Product link / Demo
 - GitHub Repository: https://github.com/lesley803/ACC102-python-data-analysis
-- Demo Video: [Your Demo Video Link]
+- Demo Video: https://github.com/lesley803/ACC102-python-data-analysis/blob/main/ACC102-BYD-Data-Analysis/4月20日(1).mp4
 
 ## 7. Limitations & next steps
 - Limitations: Short data time span, limited sales sample points, no macroeconomic/financial indicators
